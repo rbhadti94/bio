@@ -8,24 +8,24 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Cloud Systems & DevOps Engineer 
 # your company information
-company:
-  name: Example Co.
-  url: "https://www.example.com"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: ''
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
-- name: Github
+- name: github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://www.github.com/rbhadti94"
+- name: linkedin
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/ravindra.bhadti"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
